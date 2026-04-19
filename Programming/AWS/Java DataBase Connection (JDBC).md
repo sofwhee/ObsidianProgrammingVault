@@ -1,0 +1,1 @@
+Java Database Connectivity (JDBC) is an application programming interface (API) for the Java programming language which defines how a client may access a database.

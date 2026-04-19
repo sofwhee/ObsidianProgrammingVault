@@ -1,0 +1,1 @@
+An [API, or application programming interface](https://www.ibm.com/topics/api), is a set of rules or protocols that enables software applications to communicate with each other to exchange data, features and functionality. A request for data from a client to an API is known as an API call.

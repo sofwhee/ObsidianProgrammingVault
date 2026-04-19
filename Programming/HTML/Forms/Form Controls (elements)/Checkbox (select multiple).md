@@ -1,0 +1,36 @@
+`checkbox` allows multiple options to be selected at once.
+
+Single: 
+
+```html
+<div>
+  // 'checked' = checked by default
+  <input type="checkbox" id="newsletter" name="news_letter" checked>
+  <label for="newsletter">Send me the news letter</label>
+</div>
+```
+
+Multiple:
+
+```html
+<h1>Pizza Toppings</h1>
+
+<div>
+  <input type="checkbox" id="sausage" name="topping" value="sausage">
+  <label for="sausage">Sausage</label>
+</div>
+
+<div>
+  <input type="checkbox" id="onions" name="topping" value="onions">
+  <label for="onions">Onions</label>
+</div>
+
+<div>
+  <input type="checkbox" id="pepperoni" name="topping" value="pepperoni">
+  <label for="pepperoni">Pepperoni</label>
+</div>
+
+<div>
+  <input type="checkbox" id="mushrooms" name="topping" value="mushrooms">
+  <label for="mushrooms">Mushrooms</label>
+</div>

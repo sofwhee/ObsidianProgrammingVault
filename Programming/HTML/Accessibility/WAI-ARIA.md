@@ -1,0 +1,1 @@
+Web Accessibility Initiative's Accessible Rich Internet Applications specification.

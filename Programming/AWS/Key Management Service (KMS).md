@@ -1,0 +1,1 @@
+AWS Key Management Service (KMS) **gives you control over the cryptographic keys used to protect your data**. AWS KMS provides you with centralized control over the lifecycle and permissions of your keys. You can create new keys whenever you want, and you can control who can manage keys separately from who can use them.

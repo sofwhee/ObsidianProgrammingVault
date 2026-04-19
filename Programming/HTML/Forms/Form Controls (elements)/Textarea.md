@@ -1,0 +1,1 @@
+`textarea` accepts text input and can be resized. `rows` and `cols` control initial height.

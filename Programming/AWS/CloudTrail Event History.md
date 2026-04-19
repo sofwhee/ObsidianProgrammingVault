@@ -1,0 +1,3 @@
+Capture activity made through the AWS Management Console, AWS Command Line Interface, and AWS SDKs and APIs. The **Event history** records events in the AWS Region where the event happened.
+
+You can look up events related to the creation, modification, or deletion of resources (such as IAM users or Amazon EC2 instances) in your AWS account on a by-Region basis in the CloudTrail console by viewing the **Event history** page.

@@ -1,0 +1,1 @@
+Use Ajax instead of HTML to prevent redirect on submit.

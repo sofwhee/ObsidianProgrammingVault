@@ -1,0 +1,1 @@
+Each of our objects, and each of our classes, does not inherit useless code.

@@ -1,0 +1,1 @@
+Anywhere you use the Animal class, you should be able to replace it with any of its subclasses. (Dog, Cat, Horse)

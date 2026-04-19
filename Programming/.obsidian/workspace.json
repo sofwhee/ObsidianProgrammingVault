@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "afde4bacc4e531ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c0c2acbd98c7db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bed1ec31185e8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/JavaScript Form Validation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript Form Validation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cf6d02b0295b7c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c14f77d419d3016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd5cd7eb8778107",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c10f55547d7e493b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a07f3ae17971968a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c758fd31273dc87",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1b7a40e7dcc5aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1663c04034d83329",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/NPM/The npm Ecosystem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The npm Ecosystem"
+            }
+          },
+          {
+            "id": "b6200eec26cdb7d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "5732f0aec7543719",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db4c8bf055e87de0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/NPM/The npm Ecosystem.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The npm Ecosystem"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5bed1ec31185e8e0",
+  "lastOpenFiles": [
+    "Javascript/Learn Javascript in Minutes ( syntax refresher ).md",
+    "Javascript/Frameworks/ELM.md",
+    "General web dev stuff/API.md",
+    "General web dev stuff/Back end vs Front end.md",
+    "General web dev stuff/HTTP.md",
+    "General web dev stuff/Most popular server-side languages.md",
+    "General web dev stuff/Metadata.md",
+    "General web dev stuff/HTTPS.md",
+    "General web dev stuff/HTTP Request.md",
+    "General web dev stuff/URL.md",
+    "General web dev stuff/attachments/Pasted image 20251104114508.png",
+    "General web dev stuff/attachments/Pasted image 20251104103548.png",
+    "General web dev stuff/attachments/Pasted image 20251104102509.png",
+    "General web dev stuff/attachments",
+    "General web dev stuff/REST.md",
+    "General web dev stuff/URI.md",
+    "Node JS/1 Explanation.md",
+    "General web dev stuff/Server side brief overview.md",
+    "Node JS/Untitled.md",
+    "General web dev stuff",
+    "Node JS/Commands.md",
+    "HTML/Forms/FormSubmit/Prevent Redirect.md",
+    "Node JS",
+    "HTML/Forms/FormSubmit/Basic code.md",
+    "HTML/Forms/Forms Starter Guide.md",
+    "HTML/Forms/FormSubmit",
+    "HTML/Dialogues and Modals.md",
+    "Javascript/JavaScript Form Validation.md",
+    "CSS/Margins.md",
+    "VScode/Shortcuts/Select Multiple.md",
+    "CSS/Position.md",
+    "CSS/Borders.md",
+    "CSS/Calc.md",
+    "Git/Untitled 1.base",
+    "Git/Untitled.base",
+    "CSS/animations",
+    "Untitled 2",
+    "CSS/Properties/Untitled",
+    "Untitled 1",
+    "Javascript/Async stuff/attachments/Pasted image 20250505124850.png",
+    "Javascript/Async stuff/attachments/Pasted image 20250505124405.png",
+    "Javascript/Async stuff/attachments/Pasted image 20250505123045.png",
+    "Todo/attachments/Pasted image 20250316133932.png",
+    "HTML/attachments/Pasted image 20250105142433.png",
+    "HTML/attachments/Pasted image 20250105132137.png",
+    "HTML/attachments/Pasted image 20250105132124.png"
+  ]
+}

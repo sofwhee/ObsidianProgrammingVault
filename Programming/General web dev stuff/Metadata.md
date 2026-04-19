@@ -1,0 +1,1 @@
+A set of a data that describes and gives information about other data.

@@ -1,0 +1,5 @@
+Identify services where errors are occurring, connections with high latency, or traces for requests that were unsuccessful.
+
+X-Ray creates a map of services used by your application with trace data. You can use the trace data to drill into specific services or issues. This data provides a view of connections between services in your application and aggregated data for each service, including average latency and failure rates.
+
+AWS X-Ray is a service that collects data about requests that your application serves, and provides tools that you can use to view, filter, and gain insights into that data to identify issues and opportunities for optimization. For any traced request to your application, you can see detailed information not only about the request and response, but also about calls that your application makes to downstream AWS resources, microservices, databases, and web APIs.
