@@ -1,0 +1,1 @@
+Optimize data to improve performance. Replace classes with structs.

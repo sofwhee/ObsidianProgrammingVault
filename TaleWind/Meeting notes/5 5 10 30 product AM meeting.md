@@ -1,0 +1,46 @@
+- Led by Rigo
+- Daryll in charge of support request
+- Post scheduling failing (my respons)
+	- Daryll - hard to recreate
+		- depends on site config
+		- we'll keep monitoring
+- Mariah - Read time for articles - from jelena, completed on sprint 75
+- Add sortation and filterin options for trending content channels
+	- already addressed? didn't catch
+- Any updates on q3 initiative to redo channel structure
+	- clients want to hide some content from main channel and just publish on sub channels
+	- already mentioned in prev meeting
+	- already created corresponding ticket that is ready to be scheduled
+	- feel free to grab this whenever you feel it fits the sprint
+	- anything else? ... silence... I think that's a no (smiles)
+	- Ill pass it over to you alison, thanks
+- Updates ? if not mariah and sofia can start communicating with the client
+	- Daryll - if its about AI initiative we can provide def timeline or what the scope would be that would be included in the following updates
+	- we can provide a scope about phase 2 UI updates
+	- but not AI functionality
+		- it's still in discovery and exploration
+		- correct me if I'm wrong (teammate names) but we don't have a plan structure of what we're gonna do
+		- alison - correct, everything else is still in discovery
+	- Rigo - please provide this so we can communicate it to clients
+		- I got positive reactions so it would be nice to get some kind of communications so I can get feedback from clients. I know its for end of year though
+		- Daryll - we can get something by endo f may
+		- Rigo - no rush, just wantd to bring it up
+	- Alison - wait till we hear back and adjust accordingly into sprints
+	- Alison - SSO integration for TAPPI. Rigo?
+		- Rigo - they said it won't be ready, May 5th was the due date
+		- Daryll - do you mean for SSO or Tappi? Tappi is already for QA but not ready for launch or activated yet on their side. not sure if Tappi is still reviewing something on their side
+		- Rigo - I know SME is not, we're having a meeting in thursday. let me double check...
+			- I can follow up on that. it's not SME definitely
+	- Alison - OADSP - anything to fllow up on that?
+		- Daryll - just have ot provide complete scope for next update
+		- alison - Lighthouse Cove LMS migration, config form... any updates?
+			- Rigo - still need first config form before we can follow up
+	- Daryll want to add ASQ sandbox for you Rigo
+		- I can complete sandbox by next week midweek
+		- Rigo - tyvm for that, good to know. the client wanted to work with sandbox. they created an example in current media platform so they can start looking at how an article from their magazine looks on our site. so they want the sandbox ASAP so they can play with platform. next week midweek works welll
+	- Alison = anything else to add on updates?
+		- Rigo - add SME, they're approved! need more updates but approved.
+		- Kristy - talking about SSO? I reached out to Emma asking if everything okay
+		- Rigo - they didn't reply to my emails, but mike said they finished config form
+			- shaliah accepted the invitation when i invited them
+		- Kristy - MHI put it on there

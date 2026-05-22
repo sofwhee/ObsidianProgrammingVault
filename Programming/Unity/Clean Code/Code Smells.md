@@ -1,0 +1,14 @@
+- Fragility
+	- If you make a minor change and everything breaks, there's a problem.
+- Inflexibility
+	- A small change shouldn't cascade into a bunch of changes elsewhere
+	- double check for single responsibility principle
+	- If you give something more than one responsibility, it breaks more easily
+	- It's harder to anticipate every use...
+	- Make sure changing one thing somewhere doesn't break something else
+- Immobility
+	- If code requires many dependencies to deploy elsewhere, decouple it better
+- Unmaintainability
+	- Duplicate code is harder to maintain
+- Excessive commentary
+	- The best comment is a well-named method or class.

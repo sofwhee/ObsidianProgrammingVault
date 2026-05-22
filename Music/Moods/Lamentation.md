@@ -1,0 +1,26 @@
+ Harmonic and melodic techniques:
+		- (don't make it overly [[chromatic]] to avoid fatiguing player during long track)
+		- Minor keys and chromaticism
+			- minor scales ([[natural minor]], [[harmonic minor]])
+			- Invokes a dark, somber atmosphere
+			- incorporate chromaticism - moving by half-steps - to introduce a sense of unease or longing
+		- Unresolved dissonance
+			- dissonant intervals like [[tritones]], [[minor 2nds]], [[minor 9ths]]
+			- evokes tension and tragedy rather than just anger
+		- Descending melodic lines
+			- melodies that move downward often sound like sighing or mourning, enhancing grief
+		- Instrumentation and arrangement:
+		- Melancholy strings
+			- long, [[legato]] string sections (violins, cellos)
+			- brings out emotional dramatic lines in the foreground
+		- Sparse instrumentation
+			- "less is more" with only a few instruments, like a lone cello, piano, or acoustic guitar, with heavy reverb, to create vast loss
+		- "Lament" sound palette
+			- dark mellow instruments
+			- contrasted with a slow heavy percussion beat that sounds like a march or heartbeat
+		- Mixing Emotional and Kinetic Elements
+			- **High energy vs sad melody**
+				- **fast, driving, [[syncopated percussion]]/[[syncopated bassline]] with a slow mournful melody**
+				- **creates a "torn" feeling. Forcing the player to act, but highlighting the action is tragic**
+			- Dynamics and modulation
+				- use [[dynamic changes]] to suggest "weight" or numbness, rather than just loudness

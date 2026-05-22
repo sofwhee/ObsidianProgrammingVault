@@ -1,0 +1,65 @@
+- Preferred screenshotting software?
+- this is to get set up for meetings next week
+- client comm transition
+	- mariah communicating that we are transitioning to a diff member
+	- Daryll and Sofia will be taking over
+	- I'll be responding when it's striaghtforward
+	- Comm to client will be coordinated with Daryll
+	- 35% reach out directly
+		- most will reply to thread when we give release notes
+		- we don't do an email blast with release notes
+- Feature reqeuest
+- AM Priority column
+	- priority matches jira ticket
+	- we can also change the priority based on my opinion of its value / benefit
+- Ticket # only applicabl if they ned a corresponding codebuster ticket
+- Feature requests can sometimes b related to a bug
+- We only put a ticket number if it was "scheduled" during a sprint (only if it has LMS and then a number, because that means tis' probably included in next release)
+- UP update notes - for the meeting ,not from the meeting
+- Status
+	- In Progress (In progress, pull request or testing)
+		- To do - open tickets, unassigned
+		- Testing can get bounced back
+		- Todo goes to in progress once assigned, already developing
+		- pull request means all fixes done, already created a pull request that's ready to be reviewed, if approved will be merged, that means they're already on hexdev and ready for testing
+		- More testing info:
+			- Testing happens after pull request
+			- And once it's done, it goes to complete
+			- Make sure that in pull requests to review there are no pull requests still there
+			- devs test before pull request and then after the merge we test it
+	- Blocked
+		- pending tasks or clarifications needed before further troubleshooting, or corresponding codebuster ticket
+		- if there's something blocking you from progressing you can put it on hold
+		- Then leave a comment on jira ticket explaining why its on hold
+		- Sometimes Mariah doesn't go through all those statuses, what happens is I put them on... when i sync up the statuses... yo don't have to constantly update this, just make sure its synced to actual status update before the meeting, don't keep up with this before the day
+	- Gathering Information
+		- Open ticket, either I made it because I got an email from client, or it's made by an AM. automatically in open
+		- Once you move it to reviewing
+		- You only move it to reviewing once you assign it to yourself, once you actively investigating it
+		- Open - when we got info from clients
+		- Reviewing, when we are curently working on a ticket
+	- Once completed, clear rows, unless there's a reason to kep it even though it's completed
+- Mini Hex Tutorials
+	- Really helpful!
+	- Once i have time, go over those, instead of reading those articls on the knowledge base
+- Post types, how to create them, and alerts
+	- the usual ones we get support tickets on and inquiries
+	- Email capture required - asks for email
+	- embedded marketing form required - marketo
+		- gives access once form submitted
+	- log in required
+	- bug related to a current dev change
+- UI redesign
+	- Legacy and new homepage
+	- Some clients haven't agreed to apply tis cange yet
+	- supprt might look a lil iff based on which version of homepage they use
+	- I don't have to worry about te UI redesign of the posts
+	- the only thing that's applid to live sites is the homepage...
+	- new left side nav, spotlight carouselight, interactable vid carousel, footer is a bit diff, going thru channels
+- Alerts
+	- Daryll does it for some clients
+	- useful if youve communicated to clients that there's maintenance time - we give them an alert banner
+	- warnin colour
+	- enable dismiss button
+	- i just apply an alert end, pay attention to client timezone
+- 

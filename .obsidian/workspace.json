@@ -4,21 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "042a857ba10fee2e",
+        "id": "7ee292d284f1babc",
         "type": "tabs",
         "children": [
           {
-            "id": "731b6e72efab311b",
+            "id": "64479b851315bfde",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TaleWind/Cases/Query for MHI.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Query for MHI"
+            }
+          },
+          {
+            "id": "0c5f9fbab2010a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Unity/Fashion Furs.md",
+                "file": "TaleWind/Programming studies for job/Wordpress Database Core Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fashion Furs"
+              "title": "Wordpress Database Core Tables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a98bbbe252284ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8ccb4e318771f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TaleWind/Programming studies for job/Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Links"
+            }
+          },
+          {
+            "id": "214efd3b3ed75b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TaleWind/LOUD WORKING NOTES/Work Loudly 5 19 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Work Loudly 5 19 2026"
+            }
+          },
+          {
+            "id": "90ac2b8c7d49c3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TaleWind/Onboarding/Org Chart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Org Chart"
             }
           }
         ]
@@ -53,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flyweight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,56 +243,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "731b6e72efab311b",
+  "active": "5e8ccb4e318771f4",
   "lastOpenFiles": [
-    "README.md",
-    "New Text Document.txt",
-    "Programming/Unity/Programming patterns/The Observer Pattern in Unity.md",
-    "Programming/Unity/Programming patterns/The Command pattern.md",
-    "Programming/Unity/Programming patterns/Object Pooling.md",
-    "Programming/Unity/Programming patterns/Model View Presenter and Model View Controller.md",
-    "Programming/Unity/SOLID in Unity/Dependency Inversion.md",
-    "Programming/Unity/VCS/VCS.md",
-    "Pasted image 20260418202626.png",
-    "Pasted image 20260418202615.png",
-    "Pasted image 20260418202606.png",
-    "Pasted image 20260418202559.png",
-    "Pasted image 20260418202554.png",
-    "Pasted image 20260418202547.png",
-    "Pasted image 20260418202541.png",
-    "Pasted image 20260418200514.png",
-    "Pasted image 20260418200504.png",
-    "Pasted image 20260418200456.png",
-    "Programming/Unity/VCS",
-    "Programming/Unity/Programming patterns/Wombo Combo.md",
-    "Programming/Unity/SOLID in Unity",
-    "Programming/Unity/Getters and Setters.md",
-    "The Observer Pattern in Unity.pdf",
-    "Programming/Unity/Programming patterns/The State Pattern.md",
-    "Programming/Unity/Programming patterns/Factory Pattern.md",
-    "Programming/Unity/Programming patterns",
-    "Programming/Unity/Functions/Event Based Logic.md",
-    "Programming/Unity/Functions/EventSystem.md",
-    "Programming/Unity/Functions/Mouse Position.md",
-    "Programming/Unity/Functions/Raycast.md",
-    "Programming/Unity/Fashion Furs.md",
-    "Programming/Unity/GUI/New Input Manager.md",
-    "Programming/Unity/GUI/Untitled 1.md",
-    "Programming/Unity/GUI",
-    "Programming/Unity/Functions/Untitled",
-    "Programming/Unity/Functions",
-    "Programming/General web dev stuff/Responsive Design.md",
-    "Programming/Unity",
-    "Programming/CSS/images/Responsive Images.md",
-    "Programming/CSS/Flexbox/Minimum Size for Images.md",
-    "Programming/CSS/Selectors + Combinators.md",
-    "Programming/HTML/Elements/Image and multimedia/picture and source.md",
-    "Programming/HTML/Elements/Sectioning/section.md",
-    "Programming/HTML/Elements/Sectioning/main.md",
-    "Programming/HTML/Elements/Sectioning/aside.md",
-    "Programming/HTML/Accessibility"
+    "Programming/Unity/Basic Unity/How to animate a thing/Images/select sprite.png",
+    "Programming/Unity/Basic Unity/How to animate a thing/Images",
+    "Programming/Unity/Basic Unity/How to animate a thing/New folder",
+    "Programming/Unity/Basic Unity/How to animate a thing",
+    "Programming/Unity/Basic Unity/New folder",
+    "Programming/Unity/How to animat",
+    "Programming/Unity/New folder",
+    "TaleWind/Cases/Query for MHI.md",
+    "TaleWind/Programming studies for job/Links.md",
+    "TaleWind/Onboarding/Org Chart.md",
+    "TaleWind/LOUD WORKING NOTES/Work Loudly 5 19 2026.md",
+    "TaleWind/Meeting notes/5 5 mariah meeting.md",
+    "TaleWind/Images/MHI query/Table with name taxonomy id and published.png",
+    "TaleWind/Images/MHI query/mhi query - term id.png",
+    "TaleWind/Images/MHI query/mhi query - term taxonomy id and term id.png",
+    "TaleWind/Images/MHI query/mhi query - term taxonomy id.png",
+    "TaleWind/Images/MHI query/mhi query - post id.png",
+    "TaleWind/Images/MHI query/mhi query - term relationships.png",
+    "TaleWind/Images/MHI query",
+    "TaleWind/Images/New folder",
+    "TaleWind/Images/mhi query - term relationships.png",
+    "Images/Pasted image 20260519092746.png",
+    "TaleWind/Programming studies for job/Wordpress Database Core Tables.md",
+    "TaleWind/Documentation notes/KnowledgeBase/Site Overview.md",
+    "Music/Moods/Battle (FF).md",
+    "Music/Dorian mode.md",
+    "Music/Chrods/Chords.md",
+    "Music/Scale.md",
+    "Music/Moods/Fun.md",
+    "Music/Hansel/(8 bit) fantasy vibe.md",
+    "Music/Moods/Heroism.md",
+    "TaleWind/Onboarding/My Standards Of Procedure.md",
+    "TaleWind/Cases/Webinar missing from SPE.md",
+    "Music/1 pitch trick.md",
+    "Music/Harmonies.md",
+    "Music/Addicting rhythm.md",
+    "Music/Triplet rhythm (addictive rhythm).md",
+    "Music/Swing.md",
+    "Music/Synths/Meow.md",
+    "Music/Components of a song.md",
+    "Music/Video Game Music/8 BIt.md",
+    "Music/Mixing and Mastering/Volume.md",
+    "Music/Synths",
+    "Music/Video Game Music",
+    "Images/Pasted image 20260515160702.png",
+    "TaleWind/Images/Screenshot 2026-05-15 154010.png"
   ]
 }
