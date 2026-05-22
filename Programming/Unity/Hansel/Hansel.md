@@ -1,0 +1,1 @@
+don't animate in update, just spawn it and play its animator component's animation.

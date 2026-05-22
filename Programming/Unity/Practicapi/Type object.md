@@ -1,0 +1,1 @@
+Allows game designers to customize file data to make each item unique without the assistance of a programmer.

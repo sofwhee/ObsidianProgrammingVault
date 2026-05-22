@@ -1,0 +1,1 @@
+Set of sharp or flat symbols plakces on the staff at the beginning of a m

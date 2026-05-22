@@ -1,0 +1,4 @@
+- mariah here until wed
+- brush up on css
+- brush up on php
+- mariah scheduling one more meeting with mariah today or tomorrow

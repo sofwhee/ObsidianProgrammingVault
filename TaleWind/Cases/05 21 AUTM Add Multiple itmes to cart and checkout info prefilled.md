@@ -1,0 +1,5 @@
+- have to enter new contact info each time i register for a webinar
+- happens even when i register for multiple webinars back to back
+- each registration link opens in a new tab where i have to put in my contact info again
+- i can't just put in my info once and checkout all the webinars
+- once i'm registered and get the popup that should allow me to add the event to my calendar, the drop dow menu opens up below my browser window and i can't scroll down in my browser to get to it'

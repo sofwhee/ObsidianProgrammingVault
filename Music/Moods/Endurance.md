@@ -1,0 +1,31 @@
+endurance
+		- feels relentless
+		- long-lasting
+		- capable of shifting in intensity without losing steam
+		- [[vertical layering]] to add layers as the battle progresses
+		- steady driving rhythm ([[Ostinatos]])
+			- consistent, pulsating, repetitive rhytmic pattern (ostinato)
+			- in the low end
+			- or percussion
+			- gives a sence of forwards momentum that never stops
+			- similar to a heartbeat
+		- Gradual intensity building
+			- started with stripped back arrangement (just drums and bass)
+			- gradually add layers (strings bass synths) as fight goes
+			- makes music feel like it's heating up
+		- Dynamic variation
+			- Instead of one loud constant volume, use subtle swells in brass or percussion
+			- represents breathing or waves of energy
+			- avoiding fatigue from a static, loud mix
+		- Cyclical structure
+			- Structure to return to a core, familiar theme ([[How to make a hook|hook]]) periodically
+			- Allows the battle to last longer without the music becoming distracting or tedious
+		- Hybrid orchestration
+			- blend orchestral with modern synth textures to create a hybrid sound that feels both epic and relentless
+		- Communicate Stamina vs Power
+			- To show boss or player getting tired, strip away high frequency instruments
+			- leave only heavy low frequence instruments
+		- Tension release
+			- High tension sections (instense, fast)
+			- followed by breathtaking moment (shorter, quieter)
+			- mirrors stamina management loop of games

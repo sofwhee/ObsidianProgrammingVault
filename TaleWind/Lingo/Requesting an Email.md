@@ -1,0 +1,1 @@
+When a user interacts with the frontend to trigger a backend process that sends an email to their inbox.
