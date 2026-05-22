@@ -1,8 +1,52 @@
 1: 2: 1 ratio.
 heel, mid section, toes.
 The toe box, heel, and mid section follow roughly the same spatial proportions.
-## Step 1
-Draw proportion boxes
+## Step 1 Proportions
+![[Pasted image 20260522132128.png]]
+
+The foot can be separated into 4ths.
+First two fourths are the Tarsals.
+Last two are the metatarsals and the phalanges.
+
+Feet are squishy too.
+https://static.proko.com/media/videos/stan/foot-arch-and-spreading-out-v2.mp4
+
+Talus bone is a hinge joint.
+It's a wheel that the tibia and fibula grab onto.
+
+Side to side motion happens between the talus and the calcaneus, the huge bone that makes up your heel.
+https://static.proko.com/media/videos/stan/talus-and-calcaneus-joint-movement.mp4
+
+Navicular is a ball-in-socket joint. It's a buffer.
+When the head of the talus dips under the navicular towards the ground, the foot splays out, or pronates, and the arch flattens.
+That side bump is visible on the side of the foot, like when it's inverse.
+![[Pasted image 20260522132937.png]]
+
+Then you have the transverse arch.
+![[Pasted image 20260522133118.png]]
+
+Metatarsals meet the tarsals with plane joints.
+They're all about the same length.
+The big toe is a bit shorter and much thicker.
+The medial age is really visible under the skin.
+The phalanges (toes you actually move) rotate around the end of these.
+You can see the round head at the end of these when you flex your toes.
+![[Pasted image 20260522133236.png]]
+
+The phalanges.
+The big toe only has two phalanges.
+
+![[Pasted image 20260522133845.png]]
+Phalanges flex, extend, hyperextend, abduct, and adduct. https://static.proko.com/media/videos/stan/phalanges-motion.mp4
+
+
+
+**Simplification of bones**
+Simplified into a simple form.
+The second metatarsal is the peak of the curve.
+![[Pasted image 20260522133410.png]]
+
+**Draw proportion boxes**
 
 Draw a simple box in perspective.
 Then, extend it out into 3.
@@ -89,3 +133,4 @@ They also make it look like the toes start above the balls of the foot.
 
 The foot, like the rest of the body, is a balance of asymmetrical peaks bouncing back and forth along the contours.
 ![[Pasted image 20260521214039.png]]
+

@@ -8,6 +8,7 @@ Team Docs:
 [PM AM catch up Meeting](https://docs.google.com/document/d/1arudRBgnPQwqJ88de2efdHqeTVjyoZJ9gyaUWLQ5MQE/edit?pli=1&tab=t.0)
 [TWD Document Repository](https://drive.google.com/drive/u/1/folders/0AAgQyeMCzHJ0Uk9PVA
 [Retrospectives](https://docs.google.com/document/d/1o7TRP1fMWmuIuE58DmCe9vk9RqdNB02_5ZktkHQY8zw/edit?tab=t.0#heading=h.9vd9ck2o2w91)
+[Story Points and Estimates](https://docs.google.com/document/d/1a7jtyVpkeIm8lZI-wwqV_adUczHX2HCE2pMMoydUmbo/edit?tab=t.0)
 
 Tracking Sheets:
 [Hex Plugins - Update Tracking](https://docs.google.com/spreadsheets/d/1FJGvBx1mbB8KtJs-_crv1We4xrPLaHtskK8_-gckGXY/edit?gid=0#gid=0)
@@ -38,6 +39,7 @@ My Procedures:
 Documentation:
 [Platform Knowledge Base](https://help.talewinddigital.com/docs/)
 [Wordpress Codex Database](https://codex.wordpress.org/Database_Description)
+[Wordpress Installation Documentation](https://developer.wordpress.org/advanced-administration/before-install/howto-install/)
 [(Reference) Proposed Enhancements](https://docs.google.com/document/d/1Ce05P4ZhZj1y6Vx9BJkwTMd8GfQQ5SnJlEC2YYM3vL4/edit?tab=t.0#heading=h.71x03qb9frl9)
 [(Reference) Client Response via Document Editing](https://docs.google.com/document/d/1fFismWfJzhJsz5JYviJXa-2LDDkjNVSZVTdfkrANGx8/edit?tab=t.0)
 [(Reference) Client Notification: March 2026 Release Notes Tracker](https://docs.google.com/document/d/1I7TPHzzEvlK6JT8bKDrlo58EIKzUWKyrEi3zXmNo7FA/edit?tab=t.0#heading=h.hq717855o7oj)
@@ -46,14 +48,12 @@ Documentation:
 [(Reference) Client Prep Guide: New Home Page UI Release](https://drive.google.com/file/d/1H2VQTMM__k_KM1ZzACNVoH48f6Lb5yWj/view?usp=sharing)
 [(Reference) LMS Release Notes March 2026](https://drive.google.com/file/d/11dA2E9CRx-Qq3lQguLwOxmjgT6SZyBtX/view?usp=sharing)
 [(Reference) Media Platform Release Notes March 2026](https://drive.google.com/file/d/1XjgD_HsQA0XwKXwtbgh0GTjX3cQ0d5SQ/view?usp=sharing)
-(Refrerence) (FAQ User Side)
+(Reference) (FAQ User Side)
 [(Reference) (FAQ Admin Side)](https://workerbee-dev-team.atlassian.net/jira/software/projects/FSR/boards/24?selectedIssue=FSR-1480)
 
 Employee docs:
 [Onboarding Plan](https://docs.google.com/document/d/1CmFnbZBwgYZU5RlGHrEd3bS9IEUhkXYc3Y2WgMHO0Ek/edit?tab=t.0#heading=h.gjdgxs) 
 [Employee Handbook](https://drive.google.com/file/d/1VBqdr5c9hGAGBKec0GWTbI0Hx2GZ4usa/view)
-
-[Story Points and Estimates](https://docs.google.com/document/d/1a7jtyVpkeIm8lZI-wwqV_adUczHX2HCE2pMMoydUmbo/edit?tab=t.0)
 #### Product Development
 [Product Development Team Overview](https://docs.google.com/document/d/1nWbHeO2sabLZRSSMl5ymmwjtjnyr2Nln/edit)
 [Tech Stack](https://drive.google.com/file/d/1F25Z8hBsdwbfjHJ_A--L1iPsX_FaUQc_/view)

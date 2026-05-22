@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TaleWind/Meeting notes/5 22 Platform Backend 2 Darryl.md",
+                "file": "TaleWind/Meeting notes/May 2026/5 22 Platform Backend 2 Darryl.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,8 +24,23 @@
             }
           },
           {
+            "id": "1d210033037aa4d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TaleWind/Programming studies for job/WordPress/How to install wordpress for a website.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to install wordpress for a website"
+            }
+          },
+          {
             "id": "67cec3ac2d2493f5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,12 +48,12 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "5 22 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a98bbbe252284ffb",
@@ -221,14 +236,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fdec774806c7779",
+  "active": "671ee971fc65382a",
   "lastOpenFiles": [
+    "TaleWind/LOUD WORKING NOTES/5 22 2026.md",
+    "TaleWind/Meeting notes/May 2026/5 22 Platform Backend 2 Darryl.md",
+    "TaleWind/Programming studies for job/Links.md",
+    "TaleWind/Programming studies for job/WordPress/How to install wordpress for a website.md",
+    "TaleWind/Meeting notes/May 2026/5 21 platform backend.md",
+    "TaleWind/Onboarding/Tech Stack.md",
+    "Art/How to draw a person/Step 3 Mannequinization/Feet (Proko).md",
+    "Images/Pasted image 20260522133845.png",
+    "Images/Pasted image 20260522133814.png",
+    "Images/Pasted image 20260522133410.png",
+    "Images/Pasted image 20260522133236.png",
+    "Images/Pasted image 20260522133118.png",
+    "Images/Pasted image 20260522132937.png",
+    "Images/Pasted image 20260522132128.png",
+    "Art/How to draw a person/Step 3 Mannequinization/Feet (Michael Hampton).md",
+    "TaleWind/Documentation Projects/Untitled.md",
+    "Images/Pasted image 20260512152054.png",
+    "Images/Pasted image 20260519092746.png",
+    "Images/Pasted image 20260416092538.png",
+    "TaleWind/Programming studies for job/WordPress/Changing header links.md",
+    "TaleWind/Meeting notes/May 2026/5 4 mariah meeting.md",
+    "TaleWind/Meeting notes/May 2026",
     "Art/How to draw a person/Step 3 Mannequinization/The head.md",
     "Art/How to draw a person/Step 3 Mannequinization/The body (Pikat).md",
     "Art/How to draw a person/Step 3 Mannequinization/The body (Dr Draw).md",
     "Art/How to draw a person/Step 3 Mannequinization/Figure drawing.md",
-    "Art/How to draw a person/Step 3 Mannequinization/Feet (Proko).md",
-    "Art/How to draw a person/Step 3 Mannequinization/Feet (Michael Hampton).md",
     "Art/Perspective/Perspective measurements.md",
     "Art/Perspective/Fish Eye Freehand.md",
     "Art/Perspective/Clothing.md",
@@ -248,26 +283,6 @@
     "Obsidian-Hobby-Vault",
     "Music/Jake Kaufman Studies",
     "TaleWind/Programming studies for job/WordPress",
-    "TaleWind/Meeting notes/5 22 Platform Backend 2 Darryl.md",
-    "TaleWind/LOUD WORKING NOTES/5 22 2026.md",
-    "TaleWind/Cases/Query for MHI.md",
-    "TaleWind/Cases/05 21 AUTM Add Multiple itmes to cart and checkout info prefilled.md",
-    "TaleWind/Meeting notes/Tickets for future discussion/FSR-1497 Add multiple items to cart and checkout info prefilled.md",
-    "TaleWind/Cases/05 21 AUTM - Super Admins.md",
-    "TaleWind/Programming studies for job/WordPress/Wordpress Database Core Tables.md",
-    "TaleWind/Cases/5 20 NJDA audience roles issue.md",
-    "TaleWind/Programming studies for job/WordPress/WordPress Hooks.md",
-    "TaleWind/Documentation Projects/TWD WP Plugins/Untitled",
-    "TaleWind/Documentation Projects/TWD WP Plugins",
-    "Programming/Unity/Basic Unity/How to animate a thing/Images/select sprite.png",
-    "TaleWind/Images/MHI query/Table with name taxonomy id and published.png",
-    "TaleWind/Images/MHI query/mhi query - term id.png",
-    "TaleWind/Images/MHI query/mhi query - term taxonomy id and term id.png",
-    "TaleWind/Images/MHI query/mhi query - term taxonomy id.png",
-    "TaleWind/Images/MHI query/mhi query - post id.png",
-    "TaleWind/Images/MHI query/mhi query - term relationships.png",
-    "TaleWind/Images/mhi query - term relationships.png",
-    "Images/Pasted image 20260519092746.png",
-    "Images/Pasted image 20260515160702.png"
+    "TaleWind/Documentation Projects/TWD WP Plugins/Untitled"
   ]
 }
