@@ -6,8 +6,8 @@
 
 Team Docs:
 [PM AM catch up Meeting](https://docs.google.com/document/d/1arudRBgnPQwqJ88de2efdHqeTVjyoZJ9gyaUWLQ5MQE/edit?pli=1&tab=t.0)
-[TWD Document Repository](https://drive.google.com/drive/u/1/folders/0AAgQyeMCzHJ0Uk9PVA
-[Retrospectives](https://docs.google.com/document/d/1o7TRP1fMWmuIuE58DmCe9vk9RqdNB02_5ZktkHQY8zw/edit?tab=t.0#heading=h.9vd9ck2o2w91)
+[TWD Document Repository]( https://drive.google.com/drive/u/1/folders/0AAgQyeMCzHJ0Uk9PVA)
+[Retrospectives](https://docs.google.com/document/d/1o7TRP1fMWmuIuE58DmCe9vk9RqdNB02_5ZktkHQY8zw/edit?tab=t.0#heading=h.9vd9ck2o2w91 )
 [Story Points and Estimates](https://docs.google.com/document/d/1a7jtyVpkeIm8lZI-wwqV_adUczHX2HCE2pMMoydUmbo/edit?tab=t.0)
 
 Tracking Sheets:
@@ -22,7 +22,7 @@ SQL Tools VScode extension
 [Hex Dev Site](https://hexdevelopment.workerbee.tv/)
 [Hex Dev - Wordpress Admin](https://hexdevelopment.workerbee.tv/wp-admin)
 [Hex Dev - Better Docs - All Docs](https://hexdevelopment.workerbee.tv/wp-admin/admin.php?page=betterdocs-admin)
-[Demo TaleWind Site](demo.talewinddigital.com)
+[Demo TaleWind Site](http://demo.talewinddigital.com)
 [LMS Site](https://lms.talewinddigital.com/)
 
 My Procedures:
@@ -63,7 +63,11 @@ Employee docs:
 #### AM
 [[5 13 AM intro meeting]]
 [Startegic Review Meetings](https://drive.google.com/file/d/1LFG9XGHZLhZK4z0aUuT6t_ZHxAGPgfqM/view?ts=6a04993a)
-
+#### Client TW Subdomains
+[NJDA](https://ondemand.njda.org/)
+[Lighthouse Cove LMS](https://newlearning.lms.professionaltrainingmatters.org/)
+[AICC](https://now.aiccbox.org/)
+[AUTM](https://on-demand.autm.net)
 ##### Passes:
 
 TaleWind Digital Robohead password - 0de1ma2ng3a!
@@ -92,3 +96,4 @@ xsdq3UzBYR0Z^v%wU$wp^kPh
 pq{5wiF[XrYuJHE9{z]^#,HM.!Q70/
 
 ---
+

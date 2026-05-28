@@ -108,3 +108,5 @@ Well here's what I determined.
 3. Does that also mean, then, that we already have a user set up in phpMyAdmin and I don't need to create one in phpMyAdmin and give it privileges?
 4. For uploading files, I assume I would need the username and pass and so on for my FTP.
 5. Since our platforms exists in a subdomain, what directory should I be installing WordPress?
+
+HEX Deployment Release - google drive folder
